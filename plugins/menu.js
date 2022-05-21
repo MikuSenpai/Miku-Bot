@@ -449,7 +449,7 @@ if (teks == 'vn') tags = {
                   "rowId": ".? tanpakategori"
                 }, {
                   "title": "👩🏻‍💻 〉ɞ 『 Owner 』",
-                  "description": "Hanya Untuk Owner Shinn",
+                  "description": "Hanya Untuk Owner Miku",
                   "rowId": ".? owner"
                 }],
                                 "title": "▮𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆 」"
