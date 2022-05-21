@@ -16,7 +16,7 @@ let handler = async function (m, { text, usedPrefix, command }) {
                             {
                                 "rows": [{
                                          "title": `📊 LIST MENU`,
-                                         "description": "List Menu Shinnbotz",
+                                         "description": "List Menu Mikubotz",
                                          "rowId": ".menu"
                                     }, {
                                          "title": `💌 MY OWNER`,
@@ -28,10 +28,10 @@ let handler = async function (m, { text, usedPrefix, command }) {
                                          "rowId": '.unreg ' + sn
                                     }, {
                                          "title": "🎀 GRUP BOT",
-                                         "description": "Join Ke Grup Official Shinnbotz",
+                                         "description": "Join Ke Grup Official Mikubotz",
                                          "rowId": ".gcbot"
                        }],
-                    "title": "Created By αхєll - chαn ♡"
+                    "title": "Created By Indra"
                   }
                         ], "contextInfo": 
                          { "stanzaId": m.key.id,
@@ -148,7 +148,7 @@ conn.relayWAMessage(conn.prepareMessageFromContent(m.chat, {
                             {
                                 "rows": [{
                                          "title": `📊 LIST MENU`,
-                                         "description": "List Menu Shinnbotz",
+                                         "description": "List Menu Mikubotz",
                                          "rowId": ".menu"
                                     }, {
                                          "title": `🎁 Donasi`,
@@ -163,7 +163,7 @@ conn.relayWAMessage(conn.prepareMessageFromContent(m.chat, {
                                          "description": "Hadiah Bonus",
                                          "rowId": `.codereg ${pickRandom(['070698', '661528', '878588', '775636', '098786'])}`
                        }],
-                    "title": "Created αхєll - chαn ♡"
+                    "title": "Created Indra"
                   }
                         ], "contextInfo": 
                          { "stanzaId": m.key.id,
